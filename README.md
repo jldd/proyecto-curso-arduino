@@ -5,7 +5,7 @@ Este pequeño proyecto es una maqueta del control vía WiFi de una pequeña inst
 El enfoque es fundamentalmente didáctico, por ejemplo para la aplicación en un Módulo de Instalaciones Domóticas. Con este enfoque puede servir como introducción o profundización a varias áreas:
 - Sensores, actuadores y sistemas de control.
 - El entorno Arduino (y sus placas de desarrollo compatibles).
-- Lenguaje html
+- Lenguaje HTML
 - Comunicación WiFi
 ## Elementos
 La instalación consta de los siguientes sensores y actuadores:
